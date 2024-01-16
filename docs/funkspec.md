@@ -138,5 +138,5 @@ bb funkciókat, használati eseteket és szereplőket.
 ![Tanuló adatbázis lekérdezése](img/diak-oldal.png)
 
 ### Keresés
-![Tanuló adatbázis lekérdezése](img/diak-oldal.png)
+![Tanuló adatbázis lekérdezése](img/kereses.png)
 
