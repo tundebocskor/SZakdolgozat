@@ -4,7 +4,23 @@
  A mai középiskolások számára elengedhetetlen az 50 óra közösségi szolgálat teljesítése az érettségi megszerzéséhez. A rohanó világban szeretnénk minél egyszerűbben hozzáférni a kívánt információkhoz és mindent digitalizálni. Sok közösségi szolgálatot nyújtó szervezet nehezen tudja elérni a diákokat, hogy tájékoztassák a náluk lévő lehetőségekről, valamint a diákoknak nehézséget okoz információt szerezni a lehetőségeikről. 
 Webalkalmazásunk célja, hogy segítsük a diákokat tájékoztatni a különböző közösségi szolgálatok lehetőségeiről. A diákok tudnak szűrni a közelükben lévő lehetőségekről, fel tudják venni a kapcsolatot a szervezet koordinátorával, tudnak üzenetet küldeni a tanároknak, valamint automatikus üzenetet kapnak, ha megjelenik egy új lehetőség. 
 
-## A rendszer céljai és nem céljai !!!!!
+## A rendszer céljai és nem céljai 
+### A rendszer céljai
+
+- Egy olyan rendszer létrehozása, amelyet könnyű minden felhasználónak használnia, megértenie
+- A rendszer gyors működésének biztosítása
+- A felhasználók személyes adatainak védelme
+- Bármilyen gépi eszközön működjön a webes alkalmazás, internetes kapcsolat feltétele mellett
+- A felhasználót tájékoztassa az aktuális közösségi szolgálati munkákról
+- Lehetővé tenni a diákok számára, hogy keressenek közösségiszolgálati munkákat megye, kategória és város alapján
+- Biztosítani, hogy az iskolák és a szervezetek online kössenek közösségiszolgálati szerződéseket
+- Lehetővé tenni a szervezet számára, hogy online igazolja a diákok által elvégzett 50 órás közösségiszolgálati munkát
+
+### Nem céljai
+
+- A szerződéskötési folyamatoknak offline módja nem kerül támogatásra
+- A rendszer nem tervezett olyan funkciókat támogatni, amelyek kereskedelmi célú közösségiszolgálati munkákra vonatkoznak
+
 
 ## Vágyálomrendszer leírása
 
@@ -24,8 +40,8 @@ Mivel minden adminisztrációs feladat online mūködik igy sok idõt sporolunk 
 és e mellett nem kel nyomtatásokat végezni amivel a környezetünkre is oda figyelünk.
 
 
-## Használati esetek !!!!
-bb funkciókat, használati eseteket és szereplőket.
+## Használati esetek 
+
 ### 1. Felhasználók és szerepek
 
 #### 1.1 Admin
@@ -42,6 +58,7 @@ bb funkciókat, használati eseteket és szereplőket.
 - Keresési lehetőség a szolgáltatások között város, megye, kategória és iskolai szerződések alapján
 - Megtekintheti az elérhető szolgáltatásokat és jelentkezhet rájuk
 - Láthatja a saját iskolája által jóváhagyott szolgáltatásokat
+- Saját profil kezelése és követése
 
 #### 1.4 Szolgáltató
 - Hirdethet közösségi szolgálati munkákat
