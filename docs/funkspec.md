@@ -124,7 +124,6 @@ bb funkciókat, használati eseteket és szereplőket.
 
 ## Képernyőtervek !!!
 ![Tanuló adatbázis lekérdezése](img/kezdo-oldal.png)
-![Tanuló adatbázis lekérdezése](img/lekerdezes.png)
 ![Tanuló adatbázis lekérdezése](img/bejelentkezes.png)
 ![Tanuló adatbázis lekérdezése](img/regisztracio.png)
 
