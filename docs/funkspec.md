@@ -122,16 +122,21 @@ bb funkciókat, használati eseteket és szereplőket.
 #### Weboldal nem-funkcionális követelményei
 
 
-## Képernyőtervek !!!
+## Képernyőtervek 
+
+### Kezdő oldal
+
 ![Tanuló adatbázis lekérdezése](img/kezdo-oldal.png)
+### Bejelentkezés
+
 ![Tanuló adatbázis lekérdezése](img/bejelentkezes.png)
+
+### Regisztráció
 ![Tanuló adatbázis lekérdezése](img/regisztracio.png)
 
+### Diákok által kezelt oldal
+![Tanuló adatbázis lekérdezése](img/diak-oldal.png)
 
-### Kezdőlap
+### Keresés
+![Tanuló adatbázis lekérdezése](img/diak-oldal.png)
 
-
-
-#### Számítógépes felület:
-
-#### Telefonos felület:
