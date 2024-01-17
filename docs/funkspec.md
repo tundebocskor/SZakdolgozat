@@ -170,7 +170,7 @@ Részletes keresénél a diák kitudja választani, hogy csak azok a munkák jel
 történt szerződés kötés az iskolája és a szervezet között.
 Lehetősége van a felhasználónak szűrni megyére, városra é kategóriára.
 Keresés gomb megnyomásával a keresési feltételeinknek megfelelő találatokat kapjuk.
-![Tanuló adatbázis lekérdezése](img/kereses.png)
+![Részletes keresés](img/kereses.png)
 
 ### Munka megtekintése
 Egy kiválasztott munka megtekintésénél láthatjuk a munka címét és leírását.
@@ -178,8 +178,8 @@ Amennyiben még nincs az iskolának szerződése a szervezettel nem tudunk jelen
 szerződés kérése gombbal az iskolának elküldjük a kérelmet és ha elfogadja kapunk egy válasz üzenetet , hogy
 az iskola elfogadta a kérést és tájékoztatjuk ,ha a szerződés megkötésre került.
 Emellett tudunk küldeni üzenetet a szolgáltatónak.
-![Tanuló adatbázis lekérdezése](img/munka-leiras-szerzodes.png)
+![Munka leírása abban az esetben ha nincs az iskolával szerzõdve](img/munk-leiras-szerzodes.png)
 Amennyiben az iskola már kötött szerződést vagy az új szerződés megkötésre került tudunk jelentkezni a munkára.
-![Tanuló adatbázis lekérdezése](img/munka-leiras-jelentkezes.png)
+![Munka leírása és jelentkezés](img/munka-leiras-jelentkezes.png)
 
 
