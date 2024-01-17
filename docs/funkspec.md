@@ -142,18 +142,44 @@ Mivel minden adminisztrációs feladat online mūködik igy sok idõt sporolunk 
 ## Képernyőtervek 
 
 ### Kezdő oldal
-
-![Tanuló adatbázis lekérdezése](img/kezdo-oldal.png)
+A kezdő oldalon bejelentkezés nélkül egy tájékoztató szöveget kapunk az oldalról.
+Nem bejelentkezett felhasználó semmilyen adatot nem tud lekérni az oldalról.
+A menüsávban látható az oldal neve, logója és a bejelentkezés gomb.
+![Kezdő oldal](img/kezdo-oldal.png)
 ### Bejelentkezés
-
-![Tanuló adatbázis lekérdezése](img/bejelentkezes.png)
+A bejelentkezésre kattintva felúszik egy ablak.
+Betudunk jelentkezni diák, tanár vagy szoláltatóként.
+Elfelejtett jelszó esetén az emailunkra küld egy jelszó emlékeztetőt.
+Amennyiben nem vagyunk még regisztrálva az oldalon abban az esetben a regisztrációs fülre kattintva megtehetjük.
+![Bejelentkezés](img/bejelentkezes.png)
 
 ### Regisztráció
-![Tanuló adatbázis lekérdezése](img/regisztracio.png)
+Regisztrációnál három felhasználó típus közül tudunk választani.
+Mindegyiknél más adatokat kér be. Nem helyes vagy hiányos formátumnál nem engedi regisztrálni.
+![Regisztráció](img/regisztracio.png)
 
 ### Diákok által kezelt oldal
-![Tanuló adatbázis lekérdezése](img/diak-oldal.png)
+Amennyiben diákként sikeresen bejejelntekett a következő oldal látható.
+Az összes munka felsorolva látható. 
+Tud a diák kulcsszóra keresni vagy választhatja a részletes keresést.
+A menüsávban megtalálja a profil megtekintését és a kijelentkezést.
+![Diák oldal](img/diak-oldal.png)
 
 ### Keresés
+Részletes keresénél a diák kitudja választani, hogy csak azok a munkák jelenjenek meg ahol már
+történt szerződés kötés az iskolája és a szervezet között.
+Lehetősége van a felhasználónak szűrni megyére, városra é kategóriára.
+Keresés gomb megnyomásával a keresési feltételeinknek megfelelő találatokat kapjuk.
 ![Tanuló adatbázis lekérdezése](img/kereses.png)
+
+### Munka megtekintése
+Egy kiválasztott munka megtekintésénél láthatjuk a munka címét és leírását.
+Amennyiben még nincs az iskolának szerződése a szervezettel nem tudunk jelentkezni hanem az új
+szerződés kérése gombbal az iskolának elküldjük a kérelmet és ha elfogadja kapunk egy válasz üzenetet , hogy
+az iskola elfogadta a kérést és tájékoztatjuk ,ha a szerződés megkötésre került.
+Emellett tudunk küldeni üzenetet a szolgáltatónak.
+![Tanuló adatbázis lekérdezése](img/munka-leiras-szerzodes.png)
+Amennyiben az iskola már kötött szerződést vagy az új szerződés megkötésre került tudunk jelentkezni a munkára.
+![Tanuló adatbázis lekérdezése](img/munka-leiras-jelentkezes.png)
+
 
