@@ -182,4 +182,23 @@ Emellett tudunk küldeni üzenetet a szolgáltatónak.
 Amennyiben az iskola már kötött szerződést vagy az új szerződés megkötésre került tudunk jelentkezni a munkára.
 ![Munka leírása és jelentkezés](img/munka-leiras-jelentkezes.png)
 
+### Profil
+A profilra kattintva egy oldalsó menüsávból választhatunk.
+Tudjuk a profilunkat szerkeszteni de vannak olyan adatok amik nem változtathatóak.
+Mentés gobbal a változtatásokat eltudjuk menteni.
+![Profil szerkesztése](img/profil-szerkesztes.png)
+
+A munka fül kiválasztásánál láthatjuk a munkáinkat.
+Abban az esetben ,ha még nincs egyse egy gomb megnyomásával a munka kereséshez vezet.
+A munkáink egymás alatt felvan sorolva és mellette megnyitható a hozzá kapcsolósó igazoló lap amit a diák nem tud szerkeszteni.
+A lap alján egy összesítő, hogy mennyi van meg az ötvenből.
+![Profil szerkesztése](img/profil-munka.png)
+
+A menünkből az üzeneteket kiválasztva látjuk a neveket. 
+Ezt kiválasztva megtudjuk nézni az üzenetet és tudunk választ küldeni
+Ide érkeznek a rendszerüzenetek is mint például: munka elfogadva, az iskolád megkötötte a szerződést... .
+Új üzenet eszetén a fő menüsávban a profil mellett egy piros boriték jelzi, hogy üzenetet kaptunk és a
+meg nem nyitott üzenetek megvannak különböztetve.
+![Profil szerkesztése](img/profil-uzenet.png)
+
 
