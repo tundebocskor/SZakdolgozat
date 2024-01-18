@@ -27,8 +27,43 @@
 
 ## Funkcionális terv !!!BOGI!!!
 ### Felhasználói felület
-#### Generált adatok lapja
-#### Tanuló adatok lapja
+
+A felhasználói felület egy weblap, amin a felhasználó bejelentkezés nélkül korlátozott tartalmat kap. Bejelentkezésnél három szerepkör közül tud választani, annak függvényében, hogy melyikhez tartozik.
+A weblapok között egy navigációs menü segítségével válthatunk.
+#### Nem bejelentkezett felhasználók lapja
+##### Kezdő oldal
+###### Funkciòk
+- Bejelentkezés
+- Regisztráció
+
+A fő oldalon egy tájékoztató szöveget olvashatunk el. 
+Bejelentkezés nélkül semmilyen adatot nem jelenít meg az oldal.
+A navigációs menüben a bejelentkezésre kattintva tudunk bejelentkezni, vagy regisztrálni.
+
+#### Diák felhasználó
+##### Kezdő oldal
+###### Funkciòk
+- Közösségi szolgálati munkák megjelenítése
+- gyors kereső
+- részletes keresés
+- kijelentkezés
+
+![Diák kezdő oldal](img/diak-kezdo-kereso.png)
+A megjelenített adatok dinamikusan, mindig az adatbázis jelenlegi állapotát tükrözik.
+A menüben lévő kijelentkezés gombbal tudunk kijelentkezni a profilunkból.
+
+##### profil oldal
+###### Funkciòk
+- profil szerkesztése
+- mentés
+- Saját válalt munkák megtekintése
+- üzenet írás/ megtekintés
+- kijelentkezés
+
+A profil oldalon egy navigációs menüben kiválaszthatjuk mit szeretnénk.
+A profil szerkesztésénél megtekinthetjük azt adatainkat és szerkeszthetjük őket. A mentés gombbal elmenthetjük a változtatásokat.
+
+
 ### Adatbázis kezelő
 #### Adatbázis kezelő funkciói
 ### Adatgeneráló
