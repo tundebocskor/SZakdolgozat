@@ -163,42 +163,52 @@ Amennyiben diákként sikeresen bejejelntekett a következő oldal látható.
 Az összes munka felsorolva látható. 
 Tud a diák kulcsszóra keresni vagy választhatja a részletes keresést.
 A menüsávban megtalálja a profil megtekintését és a kijelentkezést.
-![Diák oldal](img/diak-oldal.png)
+![Diák oldal](img/diak-kozossegi-munka.png)
 
-### Keresés
+
+#### Keresés
 Részletes keresénél a diák kitudja választani, hogy csak azok a munkák jelenjenek meg ahol már
 történt szerződés kötés az iskolája és a szervezet között.
 Lehetősége van a felhasználónak szűrni megyére, városra é kategóriára.
 Keresés gomb megnyomásával a keresési feltételeinknek megfelelő találatokat kapjuk.
-![Részletes keresés](img/kereses.png)
+![Részletes keresés](img/reszletes-szures.png)
 
-### Munka megtekintése
+#### Munka megtekintése
 Egy kiválasztott munka megtekintésénél láthatjuk a munka címét és leírását.
-Amennyiben még nincs az iskolának szerződése a szervezettel nem tudunk jelentkezni hanem az új
-szerződés kérése gombbal az iskolának elküldjük a kérelmet és ha elfogadja kapunk egy válasz üzenetet , hogy
-az iskola elfogadta a kérést és tájékoztatjuk ,ha a szerződés megkötésre került.
 Emellett tudunk küldeni üzenetet a szolgáltatónak.
-![Munka leírása abban az esetben ha nincs az iskolával szerzõdve](img/munk-leiras-szerzodes.png)
-Amennyiben az iskola már kötött szerződést vagy az új szerződés megkötésre került tudunk jelentkezni a munkára.
 ![Munka leírása és jelentkezés](img/munka-leiras-jelentkezes.png)
 
-### Profil
+#### Profil
+
+##### Szerkesztés
 A profilra kattintva egy oldalsó menüsávból választhatunk.
 Tudjuk a profilunkat szerkeszteni de vannak olyan adatok amik nem változtathatóak.
 Mentés gobbal a változtatásokat eltudjuk menteni.
 ![Profil szerkesztése](img/profil-szerkesztes.png)
 
+##### munka
 A munka fül kiválasztásánál láthatjuk a munkáinkat.
 Abban az esetben ,ha még nincs egyse egy gomb megnyomásával a munka kereséshez vezet.
 A munkáink egymás alatt felvan sorolva és mellette megnyitható a hozzá kapcsolósó igazoló lap amit a diák nem tud szerkeszteni.
 A lap alján egy összesítő, hogy mennyi van meg az ötvenből.
 ![Profil szerkesztése](img/profil-munka.png)
 
+##### üzenet
 A menünkből az üzeneteket kiválasztva látjuk a neveket. 
 Ezt kiválasztva megtudjuk nézni az üzenetet és tudunk választ küldeni
 Ide érkeznek a rendszerüzenetek is mint például: munka elfogadva, az iskolád megkötötte a szerződést... .
 Új üzenet eszetén a fő menüsávban a profil mellett egy piros boriték jelzi, hogy üzenetet kaptunk és a
 meg nem nyitott üzenetek megvannak különböztetve.
 ![Profil szerkesztése](img/profil-uzenet.png)
+
+### Szervezet oldala
+![Profil szerkesztése](img/szervezet-profil-jelenleti-kitoltes.png)
+![Profil szerkesztése](img/szervezet-profil-jelenleti.png)
+![Profil szerkesztése](img/szervezet-profil-szerkesztes.png)
+![Profil szerkesztése](img/szolgaltato-kezdo-oldal.png)
+![Profil szerkesztése](img/szervezet-ujmunka.png)
+
+
+
 
 
