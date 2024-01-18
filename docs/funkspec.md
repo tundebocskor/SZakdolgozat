@@ -202,11 +202,36 @@ meg nem nyitott üzenetek megvannak különböztetve.
 ![Profil szerkesztése](img/profil-uzenet.png)
 
 ### Szervezet oldala
-![Profil szerkesztése](img/szervezet-profil-jelenleti-kitoltes.png)
-![Profil szerkesztése](img/szervezet-profil-jelenleti.png)
-![Profil szerkesztése](img/szervezet-profil-szerkesztes.png)
+A szervezetek bejelentkezés után a saját meghírdetett oldalait látja. Egyre rákattintva megjelenik a hírdetése és tudja szerkeszteni.
+A munkái között tud keresni kulcs szóra és részletesen is.
+Az új munka hozzá adása gombbal tud létrehozni újat.
 ![Profil szerkesztése](img/szolgaltato-kezdo-oldal.png)
+
+új munka létrehozásánál az adatok kitöltése után, a mentés gombbal tudjuk rögzíteni.
 ![Profil szerkesztése](img/szervezet-ujmunka.png)
+
+A navigációs mezőben a profilt választva elsőként a profil szerkesztése töltődik be.
+Az adatok szerkesztését a mentés gombbal tudjuk fixálni.
+![Profil szerkesztése](img/szervezet-profil-szerkesztes.png)
+
+A jelenlétinél a nállunk dolgozó diákok listáját találjuk.
+A listát tudjuk szűrni a meghírdetett munkáunk szerint.
+A diák nevére lévre jelenik meg a jelenléti ív.
+![Profil szerkesztése](img/szervezet-profil-jelenleti.png)
+
+A jelenléti ívbe tudjuk rögzíteni , hogy a diák mikor és mennyit dolgozott.
+A mentés gombbal felvisszük az új adatokat.
+A nyomtatás pdf-el kitudjuk nyomtatni a részvételi nyilatkozatot.
+![Profil szerkesztése](img/szervezet-profil-jelenleti-kitoltes.png)
+
+Az üzenet fülön találjuk a szervezetnek címzett leveleket.
+A levelekre a szervezet tud válaszolni.
+A munkákra jelentkezett diákoknak az automatikus rendszerüzenetés itt kapjuk meg.
+A jelentkezést a szervezet eltudja utasítani és fogadni.
+![Profil szerkesztése](img/szervezet-profil-uzenet.png)
+
+### Iskola oldala
+
 
 
 
