@@ -1,8 +1,8 @@
 # Funkcionális specifikáció
  
 ## Jelenlegi helyzet leírása
- A mai középiskolások számára elengedhetetlen az 50 óra közösségi szolgálat teljesítése az érettségi megszerzéséhez. A rohanó világban szeretnénk minél egyszerűbben hozzáférni a kívánt információkhoz és mindent digitalizálni. Sok közösségi szolgálatot nyújtó szervezet nehezen tudja elérni a diákokat, hogy tájékoztassák a náluk lévő lehetőségekről, valamint a diákoknak nehézséget okoz információt szerezni a lehetőségeikről. 
-Webalkalmazásunk célja, hogy segítsük a diákokat tájékoztatni a különböző közösségi szolgálatok lehetőségeiről. A diákok tudnak szűrni a közelükben lévő lehetőségekről, fel tudják venni a kapcsolatot a szervezet koordinátorával, tudnak üzenetet küldeni a tanároknak, valamint automatikus üzenetet kapnak, ha megjelenik egy új lehetőség. 
+ A mai középiskolások számára elengedhetetlen az 50 óra közösségi szolgálat teljesítése az érettségi megszerzéséhez. A rohanó világban szeretnénk minél egyszerűbben hozzáférni a kívánt információkhoz és mindent digitalizálni. Sok közösségi szolgálatot nyújtó szervezet nehezen tudja elérni a diákokat, hogy tájékoztassák a náluk lévő lehetőségekről ****, valamint a diákoknak nehézséget okoz információt szerezni a lehetőségeikről. 
+Webalkalmazásunk célja, hogy segítsük a diákokat tájékoztatni a különböző közösségi szolgálatok lehetőségeiről ******. A diákok tudnak szűrni a közelükben lévő lehetőségekről*****, fel tudják venni a kapcsolatot a szervezet koordinátorával, tudnak üzenetet küldeni, valamint automatikus üzenetet kapnak, ha megjelenik egy új lehetőség. 
 
 ## A rendszer céljai és nem céljai 
 ### A rendszer céljai
@@ -12,32 +12,29 @@ Webalkalmazásunk célja, hogy segítsük a diákokat tájékoztatni a különb�
 - A felhasználók személyes adatainak védelme
 - Bármilyen gépi eszközön működjön a webes alkalmazás, internetes kapcsolat feltétele mellett
 - A felhasználót tájékoztassa az aktuális közösségi szolgálati munkákról
-- Lehetővé tenni a diákok számára, hogy keressenek közösségiszolgálati munkákat megye, kategória és város alapján
-- Biztosítani, hogy az iskolák és a szervezetek online kössenek közösségiszolgálati szerződéseket
-- Lehetővé tenni a szervezet számára, hogy online igazolja a diákok által elvégzett 50 órás közösségiszolgálati munkát
+- Lehetővé tenni a diákok számára, hogy keressenek közösségi szolgálati munkákat megye, kategória és város alapján
+- Lehetővé tenni a szervezet számára, hogy online igazolja a diákok által elvégzett ötven órás közösségi szolgálati munkát***
 
 ### Nem céljai
 
-- A szerződéskötési folyamatoknak offline módja nem kerül támogatásra
-- A rendszer nem tervezett olyan funkciókat támogatni, amelyek kereskedelmi célú közösségiszolgálati munkákra vonatkoznak
+- A rendszer nem tervezett olyan funkciókat támogatni, amelyek kereskedelmi célú közösségi szolgálati munkákra vonatkoznak
 
 
 ## Vágyálomrendszer leírása
+A weboldalunk célja a jelenlegi közösségi szolgálati folyamatok egyszerűsítése és digitalizálása. Lehetővé szeretnénk tenni a diákoknak, hogy könnyebben megtalálják és kiválasszák a számukra megfelelő közösségi szolgálatot. A szervezetnek, hogy hírdesse a náluk lévő lehetőséget, valamint könnyen kezelheti a tanulók jelentkezését és az órák leigazolását.
+
 
 ## Jelenlegi üzleti folyamatok leírása
+Napjainkban igyekszünk mindent a leghatákonyabban, leggyorsabban megoldani. A közösségi szolgálati folyamatok jelenlegi állapota hagyományos és papíralapú módszereket alkalmaz, amelyek nehezen kezelhetők, követhetők mind a diákok, mind az iskolák és szolgáltatók számára. Az informatikai megoldásunk célja, hogy ezeket a folyamatokat hatékonyabbá, gyorsabbá és átláthatóbbá tegyük.
 
 ## Igényelt üzleti folyamatok leírása
-Azért hogy egyszerűbbé tegyük a diákok a tanárok és a szolgáltatók
-feladatát, létrehozunk egy weboldalt ami a mai kornak megfelelően
-helyt tud állni az elektronikai világban. A szolgáltatóknak egyszerūbb lesz,
-mert a náluk végezhetõ közösségi munkák több diákhoz jut el a webalkalmazás
-segítségével és az adminisztrációs feladatokat könnyebben elvégezhetöl. Az iskoláknak
-a partnerrel egyszer kell szerzõdniük és ha ez már megtörtént akkor ezt a diákok látják
-a munka választásánál így már ezzel sincs több teendõ.
-A diákoknak is sokkal jobb, mert egyszerübben tudnak tájékozódni az aktuális
-közösségi munkákról és a leigazoló dokumentumokkal is kevesebb teendõ van.
-Mivel minden adminisztrációs feladat online mūködik igy sok idõt sporolunk meg vele 
-és e mellett nem kel nyomtatásokat végezni amivel a környezetünkre is oda figyelünk.
+Azért, hogy egyszerűbbé tegyük a diákok, a tanárok és a szolgáltatók
+feladatát, létrehozunk egy weboldalt, ami a mai kornak megfelelően
+helyt tud állni az elektronikai világban. A szolgáltatóknak egyszerűbb lesz,
+mert a náluk végezhető közösségi munka több diákhoz jut el a webalkalmazás
+segítségével, és az adminisztrációs feladatok könnyebben elvégezhetők.
+A diákoknak is sokkal jobb, mert egyszerűbben tudnak tájékozódni az aktuális közösségi munkákról és a leigazoló dokumentumokkal is kevesebb feladatuk van.
+Mivel minden adminisztrációs feladat online mūködik, így sok időt sporolunk meg vele, és emellett nem kell nyomtatásokat végezni, amivel a környezetünkre is odafigyelünk.
 
 
 ## Használati esetek 
@@ -45,39 +42,32 @@ Mivel minden adminisztrációs feladat online mūködik igy sok idõt sporolunk 
 ### 1. Felhasználók és szerepek
 
 #### 1.1 Admin
-- Létrehozhat és kezelhet iskolákat, diákokat , és szolgáltatókat
-- Képes jóváhagyni vagy elutasítani szerződéseket iskolák és szolgáltatók között
+- Létrehozhat és kezelhet iskolákat, diákokat, és szolgáltatókat
 - Felhasználói fiókokat tud kezelni és szükség esetén letiltani
 
 #### 1.2 Iskola
-- Szerződést köthet a szolgáltatókkal
-- Hozzáférhet a diákjaihoz és kezelheti őket
-- Keresést végezhet a szolgáltatások között, amelyekkel az iskola szerződést kötött
+- Hozzáférhet a diákjaihoz és kezelheti az adatait
+
 
 #### 1.3 Diák
-- Keresési lehetőség a szolgáltatások között város, megye, kategória és iskolai szerződések alapján
+- Keresési lehetőség a szolgáltatások között város, megye, kategória  alapján
 - Megtekintheti az elérhető szolgáltatásokat és jelentkezhet rájuk
 - Láthatja a saját iskolája által jóváhagyott szolgáltatásokat
 - Saját profil kezelése és követése
+- Kapcsolatfelvétel a szolgáltatóval direkt üzenet formájában.
 
 #### 1.4 Szolgáltató
 - Hirdethet közösségi szolgálati munkákat
 - Kezelheti a jelentkezéseket és elfogadhat vagy elutasíthat diákokat
-- Megtekintheti az iskolai szerződéseit
-- Leigazolhatja az elvégzett órákat és ha megvan az 50 akkor a munkát
+- Leigazolhatja az elvégzett órákat 
 
 
-### 2. Szerződéskezelés/ leigazoló nyilatkozat
+### 2. Leigazoló nyilatkozat
 
-#### 2.1 Új szerződés hozzáadása
-- Az iskolák képesek új szerződéseket kötni szolgáltatókkal
 
-#### 2.2 Szerződések jóváhagyása/elutasítása
-- Az adminnak lehetősége van jóváhagyni vagy elutasítani a szerződéseket
-
-#### 2.3 50 óra leigazolása
+#### 2.1 Ötven óra leigazolása
 - A szolgáltató online folyamatosan tudja leigazolni az órákat a munka végzése közben
-- Záró igazolás kiállítása 50 óra elvégzése után
+- Záró igazolás kiállítása ötven óra elvégzése után
 
 
 ### 3. Keresés és szűrés
@@ -87,7 +77,7 @@ Mivel minden adminisztrációs feladat online mūködik igy sok idõt sporolunk 
 
 - Megye szerint
 - Település szerint
-- Iskola által partner szolgáltató szerint
+- Iskola  partnerei szerint
 - Kategória szerint
 
 
@@ -114,29 +104,51 @@ Mivel minden adminisztrációs feladat online mūködik igy sok idõt sporolunk 
 
 ## Követelménylista
 
+
 ### Funkcionális követelmények
-#### Funkcionális követelmények csoportosítása
-#### Weblap követelményei
+|     | Követelmény                              | Leírás |
+|----------|-------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 1        | **Regisztráció és bejelentkezés** | Külön regisztrációs és bejelentkezési felület a diákoknak, iskolai személyzetnek, és közösségi szolgálatot biztosítóknak. A diákoknak kötelező megadni az alapvető információkat, beleértve az iskolai adatokat és elérhetőségeket. A szolgáltatók munkaajánlatukat itt tölthetik fel. |
+| 2        | **Szűrés és keresés**             | A diákok böngészhetnek az elérhető szolgálati lehetőségek között település, kategória és tevékenységi kör alapján. Az alkalmazás ajánlásokat ad a diákoknak a lakóhelyük közelében elérhető intézményekről.                                |
+| 3        | **Jelentkezési folyamat**         | A diákok az oldalon keresztül jelentkezhetnek a kiválasztott munkára, ahol a szolgáltató el is fogadhatja a jelentkezést.                                                               |
+
+| 4        | **Kommunikáció**                  | A diákoknak lehetőségük van direkt üzenetek küldésére a szolgáltatónak, amivel egyszerűbb a kapcsolatfelvétel és kapcsolattartás.                                                       |
+| 5        | **Automatikus email**             | A rendszer minden bejövő üzenetről értesítést küld a felhasználónak az oldalra regisztrációkor megadott email címre.                                                                |
+| 6        | **Teljesítés igazolása**          | A weboldalon történik meg a diákok legdolgozott óráinak leigazolása, amely letölthető PDF formátumban is.                                                                         |
+| 7        | **Adminisztrátori felület**        | Az adminnak saját felhasználói felülete van, aki minden jogosultsággal rendelkezik a rendszer adminisztrációjához.                                                                |
+
+### Nem-funkcionális követelmények ***
+|  | Követelmény               | Leírás                                                                                                                     |
+|----------|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 8        | **Biztonság**        | Felhasználói adatok biztonságának védelme, beleértve a GDPR-megfelelőséget. Jogosultságkezelés a különböző szerepkörű felhasználók (diák, tanár, adminisztrátor) számára.    |
+| 9        | **Teljesítmény**     | Gyors és hatékony szolgáltatások biztosítása.  Az alkalmazásnak megfelelően kell működni, ha egyidejűleg akár 1000 diák és 50 intézmény is használja.    |
+| 10        | **Rugalmasság**      | Könnyen frissíthetőnek és rugalmasnak kell lennie a honlapnak, hogy alkalmazkodjon a jövőbeli igényekhez.           |
+| 11        | **Platformfüggetlenség**    | A weboldalnak platformfüggetlenül kell működnie, hogy a felhasználók bármilyen eszközön hozzáférhessenek.    |
+| 12        | **Felhasználóbarát Felület** | Egyszerű és felhasználóbarát felület mind a diákok, mind az intézmények számára.   |         
+| 13       | **Szerver Paraméterek**     | A webhelynek megfelelően kell működnie a megadott szerver paraméterekkel.                                              |
+
+
 
 #### A tanuló adatbázis követelményei
 
-#### A prediktáló program követelményei
+A megfelelően működő weboldalhoz ezek szükséges  adatbázis követelmények:
 
-### Nem-funkcionális követelmények
+Felhasználói adatok tárolása: Az adatbázisnak tárolnia kell a diákok és intézmények regisztrációs adatait. Ide tartoznak az alapvető információk (nevük, email címük, jelszavuk stb.), az iskolai adatok (iskola neve, OM azonosító, IKSZ koordinátor neve és elérhetősége).
 
-#### Nem-funkcionális követelmények csoportosítása
+Szolgálati lehetőségek tárolása: Az adatbázisnak rögzítenie kell  szolgálatot kínáló intézmények adatait, az alapinformációkat, a programleírásokat, a kapcsolattartók elérhetőségeit.
 
-#### Tanuló adatbázis tartalma
+Teljesítési adatok kezelése: Az adatbázisnak nyomon kell követnie a diákok által végzett közösségi munka teljesítéséhez kapcsolódó információkat.
 
+Jogosultságkezelés: Az adatbázisnak támogatnia kell a felhasználók különböző jogosultságait, különböző jogosultsággal rendelkezik a diák, iskola, szolgáltató és az admin.
 
-##### Adatoszlopok
+Értesítési rendszer: Az adatbázisnak támogatnia kell az automatikus értesítéseket, hogy a diákok és intézmények időben értesüljenek a szolgálati lehetőségekről vagy beérkező üzenetekről.
 
+Rugalmas fejleszthetőség: Az adatbázisnak lehetővé kell tennie a könnyű bővítést és frissítést a jövőbeli igényekhez való alkalmazkodás érdekében.
 
-#### Predikció nem-funkcionális követelményei
+Teljesítmény: Az adatbázisnak hatékonyan kell működnie, különösen olyan időkben, amikor akár ezer diák és ötven intézmény is aktív lehet az alkalmazásban. 
 
+Adatbiztonság: Az adatbázisnak megfelelő biztonsági intézkedéseket kell tartalmaznia, például jelszóvédelmet, adatbázis titkosítást és hozzáférési jogok szigorú kezelését a GDPR követelmények teljesítése érdekében.
 
-
-#### Weboldal nem-funkcionális követelményei
 
 
 ## Képernyőtervek 
@@ -163,77 +175,37 @@ Amennyiben diákként sikeresen bejejelntekett a következő oldal látható.
 Az összes munka felsorolva látható. 
 Tud a diák kulcsszóra keresni vagy választhatja a részletes keresést.
 A menüsávban megtalálja a profil megtekintését és a kijelentkezést.
-![Diák oldal](img/diak-kozossegi-munka.png)
+![Diák oldal](img/diak-oldal.png)
 
+### Keresés
 
-#### Keresés
-Részletes keresénél a diák kitudja választani, hogy csak azok a munkák jelenjenek meg ahol már
-történt szerződés kötés az iskolája és a szervezet között.
-Lehetősége van a felhasználónak szűrni megyére, városra é kategóriára.
+Lehetősége van a felhasználónak szűrni megyére, városra és kategóriára.
 Keresés gomb megnyomásával a keresési feltételeinknek megfelelő találatokat kapjuk.
-![Részletes keresés](img/reszletes-szures.png)
+![Részletes keresés](img/kereses.png)
 
-#### Munka megtekintése
+### Munka megtekintése
 Egy kiválasztott munka megtekintésénél láthatjuk a munka címét és leírását.
 Emellett tudunk küldeni üzenetet a szolgáltatónak.
+
 ![Munka leírása és jelentkezés](img/munka-leiras-jelentkezes.png)
 
-#### Profil
-
-##### Szerkesztés
+### Profil
 A profilra kattintva egy oldalsó menüsávból választhatunk.
 Tudjuk a profilunkat szerkeszteni de vannak olyan adatok amik nem változtathatóak.
 Mentés gobbal a változtatásokat eltudjuk menteni.
 ![Profil szerkesztése](img/profil-szerkesztes.png)
 
-##### munka
 A munka fül kiválasztásánál láthatjuk a munkáinkat.
-Abban az esetben ,ha még nincs egyse egy gomb megnyomásával a munka kereséshez vezet.
+Abban az esetben,ha még nincs egyse, egy gomb megnyomásával a munka kereséshez vezet.
 A munkáink egymás alatt felvan sorolva és mellette megnyitható a hozzá kapcsolósó igazoló lap amit a diák nem tud szerkeszteni.
 A lap alján egy összesítő, hogy mennyi van meg az ötvenből.
 ![Profil szerkesztése](img/profil-munka.png)
 
-##### üzenet
 A menünkből az üzeneteket kiválasztva látjuk a neveket. 
 Ezt kiválasztva megtudjuk nézni az üzenetet és tudunk választ küldeni
 Ide érkeznek a rendszerüzenetek is mint például: munka elfogadva, az iskolád megkötötte a szerződést... .
 Új üzenet eszetén a fő menüsávban a profil mellett egy piros boriték jelzi, hogy üzenetet kaptunk és a
 meg nem nyitott üzenetek megvannak különböztetve.
 ![Profil szerkesztése](img/profil-uzenet.png)
-
-### Szervezet oldala
-A szervezetek bejelentkezés után a saját meghírdetett oldalait látja. Egyre rákattintva megjelenik a hírdetése és tudja szerkeszteni.
-A munkái között tud keresni kulcs szóra és részletesen is.
-Az új munka hozzá adása gombbal tud létrehozni újat.
-![Profil szerkesztése](img/szolgaltato-kezdo-oldal.png)
-
-új munka létrehozásánál az adatok kitöltése után, a mentés gombbal tudjuk rögzíteni.
-![Profil szerkesztése](img/szervezet-ujmunka.png)
-
-A navigációs mezőben a profilt választva elsőként a profil szerkesztése töltődik be.
-Az adatok szerkesztését a mentés gombbal tudjuk fixálni.
-![Profil szerkesztése](img/szervezet-profil-szerkesztes.png)
-
-A jelenlétinél a nállunk dolgozó diákok listáját találjuk.
-A listát tudjuk szűrni a meghírdetett munkáunk szerint.
-A diák nevére lévre jelenik meg a jelenléti ív.
-![Profil szerkesztése](img/szervezet-profil-jelenleti.png)
-
-A jelenléti ívbe tudjuk rögzíteni , hogy a diák mikor és mennyit dolgozott.
-A mentés gombbal felvisszük az új adatokat.
-A nyomtatás pdf-el kitudjuk nyomtatni a részvételi nyilatkozatot.
-![Profil szerkesztése](img/szervezet-profil-jelenleti-kitoltes.png)
-
-Az üzenet fülön találjuk a szervezetnek címzett leveleket.
-A levelekre a szervezet tud válaszolni.
-A munkákra jelentkezett diákoknak az automatikus rendszerüzenetés itt kapjuk meg.
-A jelentkezést a szervezet eltudja utasítani és fogadni.
-![Profil szerkesztése](img/szervezet-profil-uzenet.png)
-
-### Iskola oldala
-
-
-
-
 
 
