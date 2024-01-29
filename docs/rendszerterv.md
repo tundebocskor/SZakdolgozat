@@ -1,10 +1,10 @@
 # Rendszerterv  
 
-## A rendszer célja !!!TÜNDE!!!
+## A rendszer célja
 A weboldal célja segíteni a középiskolai diákokat az ötven óra közösségi szolgálat teljesítésének lehetőségeivel kapcsolatos tájékozódásban és adminisztratív feladataik digitalizálásában. Ezáltal könnyedén megtalálhatják és jelentkezhetnek a számukra érdekes és megfelelő szolgálati lehetőségekre. Emellett a rendszer lehetőséget biztosít az órák nyilvántartására és leigazolására, valamint a szolgáltatókkal való kommunikációra, mindezt egy felhasználóbarát, online platformon keresztül. A cél az, hogy a diákoknak és az intézményeknek egyszerűbb és hatékonyabb legyen az adminisztrációs folyamatok kezelése, és hogy mindez a hagyományos, papíralapú módszerekhez képest időt és erőforrásokat takarítson meg.
 
 
-## Projektterv !!!TÜNDE!!!
+## Projektterv 
 ### Elvégzendő feladatok
 A rendszer elkészítésének lépései: 
     
@@ -41,7 +41,7 @@ Projekt megfontosab mérföldkövei:
 - Projekt zárása, végleges dokumentáció elkészítése
 ### Ütemterv ????
 
-## Üzleti folyamatok modellje !!!TÜNDE!!!
+## Üzleti folyamatok modellje 
 
 #### Üzleti szereplők
 
@@ -58,7 +58,7 @@ Projekt megfontosab mérföldkövei:
 - **Kommunikáció:** A diákok, iskolák és szolgáltatók közötti kommunikáció lehetőségei a rendszeren belül, például üzenetküldés, értesítések stb.
 
 
-## Követelmények !!!TÜNDE!!!
+## Követelmények 
 ### Funkcionális követelmények
 
 > **Regisztráció és bejelentkezés**
@@ -229,7 +229,7 @@ SQL adatbázisok felelősek az adatok tárolásáért.
 A megvalósítandó alkalmazás egy webalkalmazás. Vagyis bármilyen webböngészővel rendelkező eszközről elérhető és használható. A reszponzivitás megvalósításával eszközmérettől függően változik a megjelenítés így tovább növelve az elérhetőségét.
 
 
-## Absztrakt domain modell !!!TÜNDE!!!
+## Absztrakt domain modell
 ### Domain specifikáció, fogalmak
 #### Fogalmak:
 - Felhasználó: Az alkalmazásba regisztrált személy, aki jelentkezhet közösségi szolgálatra
