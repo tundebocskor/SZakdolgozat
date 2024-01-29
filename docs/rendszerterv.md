@@ -148,7 +148,7 @@ A megvalósítandó alkalmazás egy webalkalmazás. Vagyis bármilyen webböngé
 
 
 
-## Architekturális terv !!!BOGI!!!
+## Architekturális terv 
 ### Egy architekturális tervezési minta 
 Az alkalmazás architekturális tervezési mintája segít az alkalmazás szervezésében és az egyes komponensek közötti kapcsolatok meghatározásában. Egy jól megválasztott minta növelheti az alkalmazás skálázhatóságát, karbantarthatóságát és kiterjeszthetőségét.
 ### Az alkalmazás rétegei, fő komponensei, ezek kapcsolatai
