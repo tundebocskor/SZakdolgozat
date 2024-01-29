@@ -152,6 +152,7 @@ Adatbiztonság: Az adatbázisnak megfelelő biztonsági intézkedéseket kell ta
 
 
 ## Képernyőtervek 
+**Megjegyzés - Ez még nem a végleges képernyőtervünk. Terveink az alkalmazás fejelsztése alatt változhatnak, és ezt ezen pont frissítésével jelezni fogjuk.**
 
 ### Kezdő oldal
 A kezdő oldalon bejelentkezés nélkül egy tájékoztató szöveget kapunk az oldalról.
