@@ -27,7 +27,12 @@ A rendszer elkészítésének lépései:
 **4. Dokumentáció:**
 - A kész projekt részletes dokumentálása
 
-### Felelősségi körök ????
+### Felelősségi körök 
+| Név | Felelősségi kör | Vállalt rész |
+|-----|-----------------|--------------|
+|Bocskor Tünde | Programozó | Backend, Frontend fejlesztése |
+|Madar Boglárka | Programozó |  Backend, Frontend fejlesztése |
+
 ### Mérföldkövek
 Projekt megfontosab mérföldkövei: 
  - A projekt kezdeti tervezése és célok meghatározása
@@ -39,7 +44,6 @@ Projekt megfontosab mérföldkövei:
 - Elkészült projekt tesztelése, hibák javítása
 - Webalkalmazás telepítése és konfigurálása a kiszolgálón
 - Projekt zárása, végleges dokumentáció elkészítése
-### Ütemterv ????
 
 ## Üzleti folyamatok modellje 
 
